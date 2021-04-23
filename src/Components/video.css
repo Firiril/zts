@@ -1,0 +1,27 @@
+.video-item {
+    display: flex ;
+    align-items: center;
+    cursor: pointer;
+}
+
+.video-item.item img {
+    max-width: 300px;
+    max-height: 250px ;
+
+}
+
+.live{
+    background-color: red;
+    max-width: 200px;
+    padding-left: 19%;
+    margin-left:35px;
+}
+
+
+.title{
+    text-shadow: 1em;
+    font-size: large;
+    font: 24px;
+    padding-left: 9%;
+    width: 80%;
+}
